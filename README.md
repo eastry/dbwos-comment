@@ -1,2 +1,1 @@
-# dbwos-comment
-www.dbwos.com comment
+www.dbwos.com
